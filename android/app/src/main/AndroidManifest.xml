@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.webviewproject">
+    package="com.webviewone.webviewproject">
    <application
         android:label="韩中九九直播"
         android:name="${applicationName}"
