@@ -1,4 +1,4 @@
-package com.webviewone.webviewproject
+package com.hj99live.webviewproject
 
 import io.flutter.embedding.android.FlutterActivity
 
