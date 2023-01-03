@@ -11,8 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      
-      title: "한중구구생방",
+      title: "韩中九九直播",
       home: MyHomePage(),
     );
   }
@@ -33,7 +32,7 @@ class _MyHomePageState extends State<MyHomePage> {
       child: Scaffold(
           body: WebView(
         javascriptMode: JavascriptMode.unrestricted,
-        initialUrl: 'http://han.1977999999.com',
+        initialUrl: 'http://www.1977999999.com/ ',
       )),
     );
   }
