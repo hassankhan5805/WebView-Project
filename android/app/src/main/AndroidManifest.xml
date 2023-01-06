@@ -1,8 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.hj99live.webviewproject0">
+    package="com.hj99live.webviewproject1">
 <uses-permission android:name="android.permission.INTERNET"/>
    <application
-        android:label="韩中九九直播"
+        android:label="한중구구생방"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher"
         android:usesCleartextTraffic="true">
